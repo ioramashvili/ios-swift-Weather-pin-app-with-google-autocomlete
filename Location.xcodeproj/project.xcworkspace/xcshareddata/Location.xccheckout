@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A09CD3CD-1AF2-4F4B-BFE9-95D1DA7B51CC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Location</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E56A946F586DAB720C62979B853950C8B6C4CAB4</key>
+		<string>https://github.com/ioramashvili/swift-origin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Final project/New/Location.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E56A946F586DAB720C62979B853950C8B6C4CAB4</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ioramashvili/swift-origin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E56A946F586DAB720C62979B853950C8B6C4CAB4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E56A946F586DAB720C62979B853950C8B6C4CAB4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift-origin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
